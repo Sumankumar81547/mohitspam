@@ -3,7 +3,7 @@ from telethon import __version__, events, Button
 from config import X1
 
 
-START_BUTTON = [
+START_BUTTON = [#
     [
         Button.url("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", "https://t.me/avishaxbot?startgroup=true")
     ],
